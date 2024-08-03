@@ -7,7 +7,7 @@ from PIL import Image
 img=Image.open('Icon/icon.png')
 st.set_page_config(page_title='Movie Recommendation System', page_icon=img)
 def fetch_poster(movie_id):
-    url = "https://api.themoviedb.org/3/movie/{}?api_key=77629ff2a418d7e9cc8fe86d06dbb086&language=en-US".format(
+    url = "api_key".format(
         movie_id)
     data = requests.get(url)
     data = data.json()
