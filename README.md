@@ -1,4 +1,4 @@
-Hello, Folks My Name is Rahul Sharma, I'm a graduate B.Tech student with Computer Science with Specialiation of Artificial Intelligence. 
+Hello Folks, My Name is Rahul Sharma, I'm a graduate B.Tech student with Computer Science with Specialiation of Artificial Intelligence. 
 
 # Movie-Reccomendation-System-TMDB-10K-Dataset
 This is a movie recommendation system that I made for my 3rd Year Non-Syllabus-Project using Python, Streamlit, ML-Concepts like (EDA, Data Cleaning, Data Processing), TMDB API Reference with 10K Movies Dataset 
