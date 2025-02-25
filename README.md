@@ -7,14 +7,14 @@ Hello Folks, My Name is Rahul Sharma, I'm a graduate B.Tech student with Compute
 This is a movie recommendation system that I made for my 3rd Year Non-Syllabus-Project using Python, Streamlit, ML-Concepts like (EDA, Data Cleaning, Data Processing), TMDB API Reference with 10K Movies Dataset and various Machine Learning concepts. 
 
 Here are some images of my project:
-![endgame](https://github.com/user-attachments/assets/d2ddd14f-78a2-467d-b52c-4bcc920e3f72)
+![endgame](https://drive.google.com/uc?id=1mKAJUWlrMiBrmadI_QKUU_jckayHbz5f)
 
 
-![one piece](https://github.com/user-attachments/assets/7e6a339a-ead4-4807-af1c-a3785351c4c3)
+![one piece](https://drive.google.com/uc?id=19vdcTIvEM5VQFbMvXOOLgfLXlAT_q0Sr)
 
 
 In this project I am using cosine similiarity for recommending 5 closest movies to the user for the input movie.
 
 Here is the conceptual representation of cosine similarity:
 
-![Golddd](https://github.com/user-attachments/assets/67c06d6d-487e-445b-9aba-e7bb2e1091f2)
+![Golddd](https://drive.google.com/uc?id=1dhNh3a1KfKKIbx7Sr0PtOsgeGkOhloCd)
